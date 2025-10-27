@@ -4,8 +4,12 @@ German Fraktur (see [https://en.wikipedia.org/wiki/Fraktur](https://en.wikipedia
 
 *See folder* ***English*** *for more details*. Read the README there carefully. Basically, you'll find a brief explanation how to transform an image file to a word file with the known Latin letters. It will work with any known image format (e.g. jpg) of a scan or camera picture.
 
+The file that is used in the notebooks can be found in the folder *Images*.
+
 # Frakturschrift als Word Datei (Schwäbisch)
 
 Em Ordner *Schwaebisch* ischd a weiters README, mô zerst amål erklärt wird, wia mr *tesseract* installiert.
 
 Nå send då 2 Notebooks, mô erklärt wird, wia mr aus Bilder (Scäns oder mit dr Kamera) mit Altdeutscher Schrift (Frakturschrift) en a Word-Datei digitalisiera kå.
+
+Dia Beispieldatei, mô en de Notebooks vrwendat wird, ischd onter *Images* abglegt.

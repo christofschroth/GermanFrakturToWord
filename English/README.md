@@ -15,7 +15,7 @@ Step-by-step manual.
 Usually, the *fraktur* is not delivered with the standard installation of *tesseract*. Though it can be added during the installation, the safe way is to download it manually.
 ![](https://github.com/christofschroth/GermanFrakturToWord/blob/main/Images/deu_frak.png)
 
-- ´Go to [https://github.com/tesseract-ocr/tesseract/wiki/Data-Files/e56d1a761f05007b6744d98108696f8c733349d7](https://github.com/tesseract-ocr/tesseract/wiki/Data-Files/e56d1a761f05007b6744d98108696f8c733349d7) and download the file `deu_frak.traineddata`.
+- Go to [https://github.com/tesseract-ocr/tesseract/wiki/Data-Files/e56d1a761f05007b6744d98108696f8c733349d7](https://github.com/tesseract-ocr/tesseract/wiki/Data-Files/e56d1a761f05007b6744d98108696f8c733349d7) and download the file `deu_frak.traineddata`.
 - Copy the file `deu_frak.traineddata` to `C:\Program Files\Tesseract-OCR\tessdata` (Admin-rights required).
 
 
